@@ -10,9 +10,11 @@
 
 * clone the project
 * open Vs Code or anouther Ide
+* create .env file and put your keys
 * install:
-  ``yarn or npm``
-  
+   ``yarn or npm``
+  ``yarn prisma migrate dev``
+
   * Run:
       ``yarn dev`` or ``npm start``
       
